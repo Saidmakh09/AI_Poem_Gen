@@ -2,4 +2,5 @@ This is Python proejct that utilizes Claude AI, to generate poems based on the u
 The temperature controls the randomness of the scale of the text that is generated. A higher temperature score will mean more randomness involed in the text that is generated. The max_tokens relates to how
 many words the user wants to generate. 
 The model specfies the model that is being used which is claude sonnet 3. 
-How to use: 1. Input a topic that you want a poem on. 2. Input how random or crazy you want your poem to be. 3. Lastly, input how many words you want your poem to have.  
+How to use: 1. Input a topic that you want a poem on. 2. Input how random or crazy you want your poem to be. 3. Lastly, input how many words you want your poem to have.   
+And WholA now you have a poem about your favorite topic. 
